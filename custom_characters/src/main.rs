@@ -13,47 +13,38 @@ fn main() {
         "abro", // attraction to masculinity
         "ace", // little or no attraction
     ];
-
     let mut rng = rand::rng();
-    
     // Random Label Ranges
     let sexuality_index = rng.random_range(0..labels.len());
     let romantic_index = rng.random_range(0..labels.len());
-    
     // The random determiners
     let sexuality = labels[sexuality_index];
     let romantic = labels[romantic_index];
-
-    // Handle if "demi" is rolled — assign an underlying orientation
+    // Handle if "demi" is rolled // assign an underlying orientation
     let resolved_sexuality = if sexuality == "demi" {
         let demi_target = labels[rng.random_range(0..labels.len())];
         format!("demi ({})", demi_target)
     } else {
         sexuality.to_string()
     };
-
     let resolved_romantic = if romantic == "demi" {
         let demi_target = labels[rng.random_range(0..labels.len())];
         format!("demi ({})", demi_target)
     } else {
         romantic.to_string()
     };
-    
     // Random Birthdates
     let month = rng.random_range(1..12);
     let max_day = match month {
         // range based on the month that it lands on
-        2 => 28,
-        4 | 6 | 9 | 11 => 30,
-        _ => 31,
+        2 => 28, // Add a chance for it to be 29 // Months with < 30 days
+        4 | 6 | 9 | 11 => 30, // Months with 30 days
+        _ => 31, // Every other month
     };
-    let day = rng.random_range(1..=max_day); // the day chosen
-
+    let day = rng.random_range(1..max_day); // the day chosen
     println!("random month: {}", month);
     println!("random day: {}", day);
     println!("visit [lgbtqia.wiki] for more information");
     println!("random sexuality: {}", resolved_sexuality);
     println!("random romantic: {}", resolved_romantic);
 }
-
-
