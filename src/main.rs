@@ -1,20 +1,58 @@
+// Used perplexity.ai to optimize it, I understand what is happening and what it added
 use rand::Rng;
+
 fn main() {
-    // Primarily use this for background characters
-    // Major characters don't use this as much.
-    let label_list = ["straight", "gay", "lesbian", "bi", "pan", "omni", "demi", "cetero" /* attraction to non-binary and gender queer people */, "fin" /* attraction to femininity */, "abro" /* attraction to masculinity */ , "ace"];
+    // Used primarily for background characters
+    let labels = [
+        "straight", // attraction to the opposite gender
+        "gay", // attraction to the same gender (mlm exclusively)
+        "lesbian", // attraction to the same gender (wlw exclusively)
+        "bi", "pan", "omni", // attraction to one or more genders
+        "demi", // attraction based on how long a person knew the other
+        "cetero", // attraction to non-binary or genderqueer people
+        "fin", // attraction to femininity
+        "abro", // attraction to masculinity
+        "ace", // little or no attraction
+    ];
+
     let mut rng = rand::rng();
-    let random_sexuality: usize = rng.random_range(0..label_list.len());
-    let random_romantic: usize = rng.random_range(0..label_list.len());
-    let random_month: i32 = rng.random_range(1..12);
-    let random_day: i32 = rng.random_range(0..30);
-    println!("random month: {}", random_month);
-    if random_day == 0 {
-        println!("random day: 31 [Only count if month has 31 days]");
+
+    let sexuality_index = rng.random_range(0..labels.len());
+    let romantic_index = rng.random_range(0..labels.len());
+
+    let sexuality = labels[sexuality_index];
+    let romantic = labels[romantic_index];
+
+    // Handle if "demi" is rolled — assign an underlying orientation
+    let resolved_sexuality = if sexuality == "demi" {
+        let demi_target = labels[rng.random_range(0..labels.len())];
+        format!("demi ({})", demi_target)
     } else {
-        println!("random day: {}", random_day);
-    }
-    println!("visit [lgbtqia.wiki] for more information"); 
-    println!("random sexuality: {}", label_list[random_sexuality]);
-    println!("random romantic: {}", label_list[random_romantic]);
+        sexuality.to_string()
+    };
+
+    let resolved_romantic = if romantic == "demi" {
+        let demi_target = labels[rng.random_range(0..labels.len())];
+        format!("demi ({})", demi_target)
+    } else {
+        romantic.to_string()
+    };
+    
+    // Random Birthdates
+    let month = rng.random_range(1..=12);
+    let max_day = match month {
+        // range based on the month that it lands on
+        2 => 28,
+        4 | 6 | 9 | 11 => 30,
+        _ => 31,
+    };
+    let day = rng.random_range(1..=max_day); // the day chosen
+
+    println!("random month: {}", month);
+    println!("random day: {}", day);
+    println!("visit [lgbtqia.wiki] for more information");
+    println!("random sexuality: {}", resolved_sexuality);
+    println!("random romantic: {}", resolved_romantic);
 }
+
+
