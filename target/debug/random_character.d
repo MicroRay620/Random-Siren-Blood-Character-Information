@@ -1,0 +1,1 @@
+/media/BackupDrive/ProgrammingStuff/CodeRepositories/LearningCode/Projects/Rust/Project/random_character/target/debug/random_character: /media/BackupDrive/ProgrammingStuff/CodeRepositories/LearningCode/Projects/Rust/Project/random_character/src/main.rs
