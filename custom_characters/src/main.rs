@@ -1,9 +1,8 @@
 // Used perplexity.ai to optimize it, I understand what is happening and what it added
 use rand::Rng;
-
 fn main() {
     // Used primarily for background characters
-    let labels = [
+    let labels = [ // Random Labels, may add more
         "straight", // attraction to the opposite gender
         "gay", // attraction to the same gender (mlm exclusively)
         "lesbian", // attraction to the same gender (wlw exclusively)
@@ -16,10 +15,12 @@ fn main() {
     ];
 
     let mut rng = rand::rng();
-
+    
+    // Random Label Ranges
     let sexuality_index = rng.random_range(0..labels.len());
     let romantic_index = rng.random_range(0..labels.len());
-
+    
+    // The random determiners
     let sexuality = labels[sexuality_index];
     let romantic = labels[romantic_index];
 
@@ -39,7 +40,7 @@ fn main() {
     };
     
     // Random Birthdates
-    let month = rng.random_range(1..=12);
+    let month = rng.random_range(1..12);
     let max_day = match month {
         // range based on the month that it lands on
         2 => 28,
