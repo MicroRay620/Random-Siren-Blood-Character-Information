@@ -1,0 +1,4 @@
+[[CharacterTemplate]]
+[[ChapterQuestionsTemplate]]
+[[NewsTemplate]]
+[[SpeciesTemplate]]

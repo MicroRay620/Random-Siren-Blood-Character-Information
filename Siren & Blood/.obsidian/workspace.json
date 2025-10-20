@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "525563320da575ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "97e47b66bfd14066",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca841810104202d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worldbuilding/Characters/Supporting Characters/Succubi/Maria Pärn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Maria Pärn"
+            }
+          },
+          {
+            "id": "9b50bb93fe8c0217",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "History"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e0b6a811b289afd",
+    "type": "split",
+    "children": [
+      {
+        "id": "22f7a9893957ac18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cafeeb37f75162d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4ad5ec401c4ba71b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#CHARACTER-TYPE",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4429d96744468fbc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6dd5d6e93284475b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aa54fb39fd1dd77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6bbcf69705c102e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "9f893a9110ad7c62",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "ebf83ee87adf093f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2af7615743e90e1d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "13bd9ca602dbf6bf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "file-share:Toggle connection": false,
+      "publish:Publish changes...": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "ca841810104202d6",
+  "lastOpenFiles": [
+    "Chapter Questions/Chapter 1.md",
+    "History.md",
+    "Worldbuilding/Characters/Main Characters/Valentina Sokolova.md",
+    "Worldbuilding/Characters/Supporting Characters/Lycanthropes/Werewolves/Aleksy Mayr.md",
+    "Worldbuilding/TV Shows/News/Austrian Moon Loon News Network.md",
+    "Worldbuilding/TV Shows/News/Austrian HuVoon News Network.md",
+    "Worldbuilding/TV Shows/Drama/Under The Moon.md",
+    "Aloysa Mayr.md",
+    "Worldbuilding/Characters/Supporting Characters/Succubi/Marie.md",
+    "Worldbuilding/Characters/Supporting Characters/Sirens/Adèle Bonheur.md",
+    "Worldbuilding/Characters/Supporting Characters/Sirens/Grażyna Czajka.md",
+    "Worldbuilding/Characters/Supporting Characters/Succubi/Maria Pärn.md",
+    "Worldbuilding/Characters/Supporting Characters/Lycanthropes/Werefoxes/Darci.md",
+    "Worldbuilding/Characters/Main Characters/Elisabeth Kofler.md",
+    "Worldbuilding/Characters/Supporting Characters/Humans/Edel Kofler.md",
+    "Chapter Questions/Excerises/Third Person-Past Tense.md",
+    "Worldbuilding/Characters/Supporting Characters/Lycanthropes/Werecats/Lenz.md",
+    "Template/CharacterTemplate.md",
+    "Worldbuilding/Organisations/Vampyric Relations.md",
+    "Worldbuilding/Characters/Supporting Characters/Humans/Agnia Sokolova.md",
+    "Worldbuilding/Species/Siren.md",
+    "Worldbuilding/Species/Construct.md",
+    "Worldbuilding/Species/Human.md",
+    "Worldbuilding/Species/Lycanthrope.md",
+    "Worldbuilding/Species/Harpy.md",
+    "Worldbuilding/Species/Ghost.md",
+    "Worldbuilding/Characters/Supporting Characters/Lycanthropes/Werefoxes",
+    "Chapter Questions/Excerises",
+    "Worldbuilding/Characters/Supporting Characters/Lycanthropes/Werecats",
+    "Worldbuilding/Characters/Supporting Characters/Lycanthropes/Werebears",
+    "Worldbuilding/Characters/Supporting Characters/Lycanthropes/Werewolves",
+    "Worldbuilding/Characters/Supporting Characters/Humans",
+    "Worldbuilding/Characters/Supporting Characters/Harpies",
+    "Worldbuilding/Characters/Supporting Characters/Vampyrs",
+    "Worldbuilding/Characters/Supporting Characters/Dhamyr",
+    "Worldbuilding/Characters/Supporting Characters/Succubi"
+  ]
+}
