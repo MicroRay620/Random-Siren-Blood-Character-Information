@@ -1,2 +1,0 @@
-#worldbuilding #tv-show #news-channel #austrian #human #discontinued 
-The HuVoon News Network  was news channel that was dedicated to the news about Austrian Human news. This channel didn't kick off as much as the other species' news networks, so it was discontinued.

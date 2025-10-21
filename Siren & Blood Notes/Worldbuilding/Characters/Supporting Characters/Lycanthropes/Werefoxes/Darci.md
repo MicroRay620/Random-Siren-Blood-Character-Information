@@ -1,4 +1,4 @@
-#character #side-character #lycanthropy #brizilian
+#character #side-character #lycanthropy #brazilian
 **Species:** [[Lycanthrope#Fox Lycanthropy|Werefox]]
 **Ethnicity:** Brazilian
 **Age:** 18

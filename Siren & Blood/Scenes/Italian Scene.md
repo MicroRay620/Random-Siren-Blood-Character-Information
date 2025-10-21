@@ -1,1 +1,0 @@
-Have a scene where they are in an Italian restaurant and Elisa has to say no garlic

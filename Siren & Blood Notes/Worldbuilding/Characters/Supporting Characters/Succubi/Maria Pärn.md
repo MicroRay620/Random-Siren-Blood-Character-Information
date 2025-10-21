@@ -10,14 +10,13 @@
 **Sexuality:**
 **Romantic Orientation:** 
 **Partner:** {If applicable}
-**Occupation:**
+**Occupation:** Car Mechanic
 ___
 # Personality
 # Backstory
 # Relations
 - [[Valentina Sokolova]], close-friend
 - [[Elisabeth Kofler]], close-friend
-- 
 - [[Aleksy Mayr]], chosen father
 # Extra Info
 - She's lean

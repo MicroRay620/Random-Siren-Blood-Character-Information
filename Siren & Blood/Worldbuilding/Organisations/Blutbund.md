@@ -1,3 +1,0 @@
-- Use in Chapter 3
-- Humans with supernatutals require collars with the name of the supernatural their with
-- Is a Supernatural Strip Club
