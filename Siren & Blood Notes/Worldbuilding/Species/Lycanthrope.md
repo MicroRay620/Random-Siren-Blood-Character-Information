@@ -1,3 +1,4 @@
+#lycanthropy
 # Bear Lycanthropy
 # Cat Lycanthropy
 # Fox Lycanthropy
