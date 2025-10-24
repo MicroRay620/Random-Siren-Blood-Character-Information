@@ -9,7 +9,7 @@
 **Gender:**
 **Sexuality:**
 **Romantic Orientation:** 
-**Partner:** {If applicable}
+**Partner:**
 **Occupation:** Car Mechanic
 ___
 # Personality

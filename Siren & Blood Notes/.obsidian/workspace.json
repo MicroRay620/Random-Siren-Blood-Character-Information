@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Objects/Celestial Masks.md",
+                "file": "History.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Celestial Masks"
+              "title": "History"
             }
           },
           {
@@ -55,16 +55,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Objects/Celestial Masks.md",
+                "file": "Worldbuilding/Series Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Celestial Masks"
+              "title": "Series Index"
+            }
+          },
+          {
+            "id": "b2cbeaff77f414b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worldbuilding/TV Shows/News/Austrian HuVoon News Network.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Austrian HuVoon News Network"
+            }
+          },
+          {
+            "id": "9fd16ae3891362db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worldbuilding/Species/Lycanthrope.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lycanthrope"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,18 +236,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "d5f7beef2bb7ae80",
+  "active": "df3b6535d3471947",
   "lastOpenFiles": [
-    "Worldbuilding/Characters/Supporting Characters/Harpy",
-    "Worldbuilding/Species/Lycanthrope.md",
+    "Chapter Questions/Chapter 1.md",
+    "Chapter Questions/Chapter 2.md",
+    "Chapter Questions/Excerises/Third Person-Past Tense.md",
     "Worldbuilding/Objects/Celestial Masks.md",
+    "Worldbuilding/TV Shows/News/Austrian HuVoon News Network.md",
     "Worldbuilding/Characters/Supporting Characters/Succubi/Marie.md",
+    "Worldbuilding/Characters/Supporting Characters/Succubi/Maria Pärn.md",
+    "Worldbuilding/Characters/Supporting Characters/Lycanthropes/Werewolves/Aleksy Mayr.md",
+    "Worldbuilding/Characters/Supporting Characters/Dhampyr",
+    "Worldbuilding/Series Index.md",
+    "Worldbuilding/Species/Lycanthrope.md",
+    "Worldbuilding/Characters/Supporting Characters/Harpy",
     "Worldbuilding/Objects",
     "Worldbuilding/Organisations/Blutbund.md",
     "History.md",
     "Worldbuilding/Characters/Supporting Characters/Lycanthropes/Werefoxes/Darci.md",
-    "Worldbuilding/TV Shows/News/Austrian HuVoon News Network.md",
-    "Worldbuilding/Series Index.md",
     "Worldbuilding/TV Shows/News/Austrian SuccuNews.md",
     "Scenes/Ritual Scene.md",
     "Scenes/Italian Scene.md",
@@ -228,7 +261,6 @@
     "Worldbuilding/Characters/Main Characters/Valentina Sokolova.md",
     "Worldbuilding/Characters/Supporting Characters/Sirens/Grażyna Czajka.md",
     "Worldbuilding/Characters/Supporting Characters/Lycanthropes/Werecats/Lenz.md",
-    "Worldbuilding/Characters/Supporting Characters/Succubi/Maria Pärn.md",
     "Worldbuilding/Characters/Main Characters/Elisabeth Kofler.md"
   ]
 }

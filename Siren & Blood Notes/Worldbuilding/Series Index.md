@@ -1,5 +1,4 @@
 #index #species 
-- [[Construct]] #construct `may be removed`
 - [[Dhampyr]] #dhampyr
 - [[Ghost]] #ghost
 	- [[Ghost#Banshee]] #banshee
@@ -8,6 +7,8 @@
 - [[Human]] #human 
 - [[Lycanthrope]] #lycanthrope
 	- [[Lycanthrope#Bear Lycanthropy]] #werebear
+	- [[Lycanthrope#Cat Lycanthropy]] #werecat
+	- [[Lycanthrope#Fox Lycanthropy]] #werefox
 	- [[Lycanthrope#Wolf Lycanthropy]] #werewolf
 - [[Siren]] #siren 
 - [[Succubus]] #succubus 
