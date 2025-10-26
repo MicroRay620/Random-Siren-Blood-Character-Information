@@ -1,0 +1,15 @@
+#index #species 
+- [[Dhampyr]] #dhampyr
+- [[Ghost]] #ghost
+	- [[Ghost#Banshee]] #banshee
+	- [[Ghost#Wraith]] #wraith
+- [[Harpy]] #harpy
+- [[Human]] #human 
+- [[Lycanthrope]] #lycanthrope
+	- [[Lycanthrope#Bear Lycanthropy]] #werebear
+	- [[Lycanthrope#Cat Lycanthropy]] #werecat
+	- [[Lycanthrope#Fox Lycanthropy]] #werefox
+	- [[Lycanthrope#Wolf Lycanthropy]] #werewolf
+- [[Siren]] #siren 
+- [[Succubus]] #succubus 
+- [[Vampyr]] #vampyr 
