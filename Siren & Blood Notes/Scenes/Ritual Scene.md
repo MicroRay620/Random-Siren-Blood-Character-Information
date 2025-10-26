@@ -1,1 +1,0 @@
-Have Elisabeth be annoyed at their distant relative for giving up on love for their decision. Getting choices that she never had.
