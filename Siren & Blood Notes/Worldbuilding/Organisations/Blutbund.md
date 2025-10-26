@@ -1,0 +1,4 @@
+- Name means "Blood Coven"
+- Use in Chapter 3
+- Humans with a supernatural are require collars with the name of the supernatural their with
+- Is a Supernatural Strip Club

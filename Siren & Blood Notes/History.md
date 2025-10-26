@@ -1,0 +1,47 @@
+- Monsters always existed
+- Figure out if segregation exists 
+- How would Holly Wood be effected by monsters
+	- Like Sirens and Vampyrs, especially sirens
+	- Most Hollywood stars are either [[Siren]]s, [[Succubus|Succubi]], or [[Vampyr]]s
+- Hitler was a [[Siren]]
+- Archduke Franz Ferdinand was a [[Lycanthrope#Wolf Lycanthropy|Werewolf]].
+	- Made werewolf during his reign, part of the reason he was assassinated.
+	- Silver bullet was used to kill Franz Ferdinand
+- Military force of werewolves, vampyrs, succubi, and some sirens
+	- Have a plaque dedicated to a major figure from the military force 
+- Sirens suspected to caused the sinking of the Titanic
+- The [rabbi that was assaulted](https://www.euronews.com/2025/08/11/prominent-us-rabbi-assaulted-at-rally-in-vienna-questions-police-actions) for he was suspected for being a monster
+- During the AIDs epidemic ([it did happen in Austria](https://en.wikipedia.org/wiki/HIV/AIDS_in_Europe)) Vampyr institutions had campaigns for people getting tested for STIs to help not spread the STIs to supernaturals.
+- Donald Trump is a [[Siren]]. [Flipped a coin to get this]
+- **War Crimes**
+	- Vampyrs are not allowed to suck the blood of dead soldier in war. It's considered a war crime.
+	- Vampyr soldiers are not allowed to suck the blood of prisoners of war and civilians while in a combat zone.
+		- Prisoners of War are prohibited from giving consent to being drank for the chance of it to avoid interrogation 
+# Touchy Historical Topics
+## Slurs
+- **Monster:** #unreclaimed Universal supernatural slur, can be used non-derogatorily
+- **Freaks:** #non-slur Anyone that is or likes supernaturals
+- **Virgin Stealer:** #unreclaimed [[Vampyr]] slur
+- **Turnie:** #unreclaimed Turned [[Vampyr]] slur
+- **Fang Fucker:** #partially-reclaimed [[Human]]s who like vampyrs and often want to fuck them. Also was adopted for werewolf attracted people too
+- **Monster Fucker:** #unreclaimed [[Human]]s who like supernaturals and often want to fuck them.
+- **Manged-born**: #unreclaimed [[Lycanthrope#Wolf Lycanthropy|Werewolf]] slur
+- **Night Shifter:** #unreclaimed [[Lycanthrope]] slur
+- **Gill Breather:** #unreclaimed [[Siren]] slur
+- **Temptress:** #partially-reclaimed [[Succubus]] slur
+> Temptress is *very* context dependent. 
+# Random Lore
+- Some products call themselves Lycantrope Safe, meaning they don't have silver in them
+- Archaic posters from the 80's
+	- These was AIDs epidemic posters.
+- Werewolf food places often *only* serve raw meat
+- Vampyr tea shops serve tea with blood.
+	- Added bonus, they also are a normal tea shop
+- Two types of vampyrs: Turned and Bio
+	- Turned are undead (**exhibit a:** [[Elisabeth Kofler]])
+	- Bio start alive but can become undead.
+		- Figure out more
+			 - Bio-Vampyr have a ritual for becoming a full fledged vampyr
+				 - Baptism, is an archaic practice 
+		- Will be a trans allegory 
+- Supernaturals' exclusive clubs require a collar with their supernatural's name on it
