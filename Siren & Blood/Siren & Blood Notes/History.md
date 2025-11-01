@@ -1,4 +1,3 @@
-
 - Monsters always existed
 - Figure out if segregation exists 
 - How would Holly Wood be effected by monsters
@@ -46,3 +45,5 @@
 				 - Baptism, is an archaic practice 
 		- Will be a trans allegory 
 - Supernaturals' exclusive clubs require a collar with their supernatural's name on it
+- All shops and restaurants close when there are eclipses
+	- It affects all supernaturals

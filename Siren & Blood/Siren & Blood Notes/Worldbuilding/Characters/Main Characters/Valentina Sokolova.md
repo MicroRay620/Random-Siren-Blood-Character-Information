@@ -9,7 +9,7 @@
 **Sexuality:**
 **Romantic Orientation:** 
 **Partner:** [[Elisabeth Kofler]] (Fiancé) 
-**Occupation:**
+**Occupation:** Unemployed, stay-at-home fiancé
 ___
 # Personality
 # Backstory
@@ -23,3 +23,7 @@ ___
 # Extra Info
 - Safe word is *garlic spread*
 - Enjoys [[Under The Moon]]
+- Pet Names
+	- [[Elisabeth Kofler]]
+		- Invader (USSR reference) — Often prefixed with another pet name like adorable
+		- 
